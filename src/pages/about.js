@@ -7,6 +7,8 @@ import BannerAbout from '../components/BannerAbout'
 import pic08 from '../assets/images/pic08.jpg'
 import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
+import pic11 from '../assets/images/pic11.jpg'
+import pic12 from '../assets/images/pic12.jpg'
 
 const About = (props) => (
     <Layout>
@@ -79,7 +81,7 @@ const About = (props) => (
         </div>
         <section>
                     <Link to="/generic" className="image">
-                        <img src={pic08} alt="" />
+                        <img src={pic11} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -95,7 +97,7 @@ const About = (props) => (
                 </section>
                 <section>
                     <Link to="/generic" className="image">
-                        <img src={pic08} alt="" />
+                        <img src={pic12} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
