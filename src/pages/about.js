@@ -21,7 +21,7 @@ const About = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h2>We are a group of hard-working legal professionals who handle each case with compassion, diligence, and integrity.</h2>
+                        <h2>We handle each case with compassion, diligence, and integrity.</h2>
                     </header>
                 </div>
             </section>
@@ -75,6 +75,22 @@ const About = (props) => (
                     </div>
                 </section>
                     <section>
+                    <Link to="/generic" className="image">
+                        <img src={pic10} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Sed nunc ligula</h3>
+                            </header>
+                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <ul className="actions">
+                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+    <section>
                     <Link to="/generic" className="image">
                         <img src={pic10} alt="" />
                     </Link>
