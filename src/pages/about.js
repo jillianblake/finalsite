@@ -21,9 +21,8 @@ const About = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h2>Our Philosophy</h2>
+                        <h2>We are a group of hard-working legal professionals who handle each case with compassion, diligence, and integrity.</h2>
                     </header>
-                    <p>We are a group of hard-working legal professionals who handle each case with compassion, diligence, and integrity.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
