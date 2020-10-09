@@ -7,6 +7,9 @@ import BannerAbout from '../components/BannerAbout'
 import pic08 from '../assets/images/pic08.jpg'
 import pic09 from '../assets/images/pic09.jpg'
 import pic10 from '../assets/images/pic10.jpg'
+import pic11 from '../assets/images/pic11.jpg'
+import pic12 from '../assets/images/pic12.jpg'
+
 
 const About = (props) => (
     <Layout>
@@ -37,7 +40,7 @@ const About = (props) => (
                             </header>
                             <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/generic" className="button">E-mail Jillian</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -53,7 +56,7 @@ const About = (props) => (
                             </header>
                             <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/generic" className="button">E-mail Ami</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -69,14 +72,14 @@ const About = (props) => (
                             </header>
                             <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/generic" className="button">E-mail Jennifer</Link></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                     <section>
                     <Link to="/generic" className="image">
-                        <img src={pic10} alt="" />
+                        <img src={pic11} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -85,14 +88,14 @@ const About = (props) => (
                             </header>
                             <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/generic" className="button">E-mail Karina</Link></li>
                             </ul>
                         </div>
                     </div>
                 </section>
     <section>
                     <Link to="/generic" className="image">
-                        <img src={pic10} alt="" />
+                        <img src={pic12} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -101,7 +104,7 @@ const About = (props) => (
                             </header>
                             <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/generic" className="button">E-mail Jose</Link></li>
                             </ul>
                         </div>
                     </div>
