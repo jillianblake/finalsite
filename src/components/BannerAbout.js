@@ -4,11 +4,10 @@ const BannerAbout = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
-                <h1>Landing</h1>
+                <h1>About Us</h1>
             </header>
             <div className="content">
-                <p>Lorem ipsum dolor sit amet nullam consequat<br />
-                sed veroeros. tempus adipiscing nulla.</p>
+                <p>Meet Our Team</p>
             </div>
         </div>
     </section>
