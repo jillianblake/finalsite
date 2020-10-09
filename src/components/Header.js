@@ -5,7 +5,7 @@ import icon from '../assets/images/website-icon.png'
 
 const Header = (props) => (
     <header id="header" className="alt">
-        
+         <img src={icon} alt="" />
     </header>
 )
 
