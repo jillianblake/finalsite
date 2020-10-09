@@ -15,7 +15,7 @@ const Services = (props) => (
             <meta name="description" content="Services Page" />
         </Helmet>
 
-        <BannerLanding />
+        <BannerServices />
 
         <div id="main">
             <section id="one">
