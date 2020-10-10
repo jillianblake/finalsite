@@ -58,7 +58,7 @@ const About = (props) => (
                             </header>
                             <p>Ami Patel is an associate attorney at Blake Immigration Law. She has worked at the firm since 2018, starting as a law graduate clerk and becoming an associate attorney in 2019. Ami grew up in Louisville, Kentucky and earned her bachelor’s degree in international relations and affairs from American University. She then obtained her law degree from George Washington University Law School. During law school she participated in the George Washington University Law School Immigration Clinic. She also interned at the Open Society Institute in Cambodia, the American Immigration Council, and the American Bar Association. As the daughter of immigrants, Ami loves that her work helps others find safety in the United States. Ami is a member of the California State Bar and the American Immigration Lawyers Association (AILA). In her free time Ami likes to read, hike, and seek out new restaurants.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">E-mail Ami</Link></li>
+                                <li><a href="mailto:ami@blakeimmigration.com" className="button fit">ami@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
@@ -75,7 +75,7 @@ const About = (props) => (
                             </header>
                             <p>Jennifer is a senior paralegal at Blake Immigration Law and has worked at the firm since 2017. She was born and raised in northern Virginia and earned her bachelor’s degree in political science from the Pennsylvania State University. During college she studied abroad in Barcelona, Spain. Jennifer currently attends law school part-time at the University of the District of Columbia (UDC) David A. Clarke School of Law. Jennifer also volunteers at the UDC Immigration and Human Rights Legal Clinic processing applications for adjustment of status and conducting legal research. She is passionate about helping immigrants obtain legal status in the United States and likes interacting with people from different cultural backgrounds. In her free time Jennifer enjoys spending time with her family and baking cakes.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">E-mail Jennifer</Link></li>
+                                <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
@@ -92,7 +92,8 @@ const About = (props) => (
                             </header>
                             <p>Karina is a senior paralegal at Blake Immigration Law and has worked at the firm since 2017. She was born in Chihuahua, Mexico and immigrated to the United States with her family at the age of five. She then grew up in northern Virginia. Karina obtained her an associate’s degree from Northern Virginia Community College and is working towards her bachelor’s degree at George Mason University. Karina became interested in immigration law when she worked as an administrative assistant at another immigration law office and volunteered for the CARA Family Detention Protect. She feels humbled by the trust immigrants put in her to share their stories, especially about hardships they have endured. She enjoys the moment when she can see the direct impact her work has had on a client’s life because they have been able to gain legal status. She also really enjoys spending time with her dog, Stella.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">E-mail Karina</Link></li>
+                           <li><a href="mailto:karina@blakeimmigration.com" className="button fit">karina@blakeimmigration.com</a></li>
+
                             </ul>
                         </div>
                     </div>
@@ -109,7 +110,8 @@ const About = (props) => (
                             </header>
                             <p>Jose is a paralegal at Blake Immigration Law and recently joined the firm in 2020. Jose was born in El Salvador and came to the United States with his family when he was eight years old. Jose earned his associate’s degree from Northern Virginia Community College and graduated with his bachelor’s degree in public administration from George Mason University. Jose interned at Just Neighbors, a non-profit organization that provides legal services to immigrants and worked at Grace Ministries, another non-profit organization that provides low-income immigrants with food and clothing. During college he was a member of Mason DREAMers, a student group that aids undocumented students in reaching their educational goals. Jose enjoys working in immigration law because he wants to help immigrants achieve their goals without fear of deportation. As a DACA recipient and first-generation college graduate himself, he knows how hard immigrants work to achieve their ambitions even with the obstacles they face. In his free time Jose likes to read, dance, and spend time with his pets. He and his family care for four dogs, one cat, and four birds.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">E-mail Jose</Link></li>
+                            <li><a href="mailto:jose@blakeimmigration.com" className="button fit">jose@blakeimmigration.com</a></li>
+
                             </ul>
                         </div>
                     </div>
