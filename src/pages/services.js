@@ -32,12 +32,33 @@ const Services = (props) => (
                         </div>
                         <div className="col-4">
                             <h3>Humanitarian Visas</h3>
-                            <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+                          <ul>
+                                            <li>Special Immigrant Juvenile Status (SIJS)
+</li>
+                                            <li>Temporary Protected Status (TPS)</li>
+                                            <li>U and T Visas</li>
+                                            <li>Violence Against Women Act (VAWA)</li>
+                                            <li>Deferred Action for Childhood Arrivals</li>
+                                           
+
+                                        </ul>
                         </div>
                         <div className="col-4">
-                            <h3>Family-based Immigration and Naturalizatin </h3>
-                            <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+                            <h3>Family-based Petitions</h3>
+                           <ul>
+                                            <li>Permanent Residence
+</li>
+                                            <li>Adjustment of Status</li>
+                                            <li>Provisional Waivers</li>
+                                            <li>Criminal Waivers</li>
+                                            <li>Petitions to Remove Conditions</li>
+                                           
+
+                                        </ul>
                         </div>
+ <div className="col-4">
+                            <h3>Naturalization</h3>
+</div>
                     </div>
 
        
