@@ -13,6 +13,8 @@ const Services = (props) => (
     
 <BannerServices />
     
+    <h4>Removal Defense</h4>
+    
         
     </Layout>
 )
