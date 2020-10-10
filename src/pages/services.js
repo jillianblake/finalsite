@@ -419,4 +419,4 @@ const Servies = (props) => (
     </Layout>
 )
 
-export default Elements
+export default Services
