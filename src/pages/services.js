@@ -1,8 +1,8 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-
 import pic11 from '../assets/images/pic13.jpg'
+import BannerService from '../components/BannerServices'
 
 const Services = (props) => (
     <Layout>
@@ -10,7 +10,7 @@ const Services = (props) => (
             <title>Services</title>
             <meta name="description" content="Services Page" />
         </Helmet>
-
+<BannerServices />
         <div id="main" className="alt">
             <section id="one">
                 <div className="inner">
