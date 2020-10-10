@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import pic11 from '../assets/images/pic13.jpg'
-import BannerService from '../components/BannerServices'
+import BannerServices from '../components/BannerServices'
 
 const Services = (props) => (
     <Layout>
