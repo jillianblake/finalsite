@@ -21,7 +21,7 @@ const Services = (props) => (
          
                     <div className="grid-wrapper">
                
-                        <div className="col-4">
+                        <div className="col-6">
                             <h3>Removal Defense</h3>
                             <ul>
                                             <li>Asylum/Withholding of Removal</li>
@@ -33,7 +33,7 @@ const Services = (props) => (
 
                                         </ul>
                         </div>
-                        <div className="col-4">
+                        <div className="col-6">
                             <h3>Humanitarian Visas</h3>
                           <ul>
                                             <li>Special Immigrant Juvenile Status (SIJS)
@@ -46,7 +46,7 @@ const Services = (props) => (
 
                                         </ul>
                         </div>
-                        <div className="col-4">
+                        <div className="col-6">
                             <h3>Family-based Petitions</h3>
                            <ul>
                                             <li>Permanent Residence
@@ -59,7 +59,7 @@ const Services = (props) => (
 
                                         </ul>
                         </div>
- <div className="col-4">
+ <div className="col-6">
                             <h3>Naturalization</h3>
 </div>
                     </div>
