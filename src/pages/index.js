@@ -79,7 +79,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <p>Our law firm is dedicated to offering excellent, affordable legal services to immigrants and refugees in the Washington, DC area. We represent our clients before the Arlington and Baltimore Immigration Courts, the Board of Immigration Appeals (BIA) and U.S. Citizenship and Immigration Services (USCIS) with a focus on removal (deportation) defense asylum and family-based immigrant petitions. Our offices are conveniently located in Old Town Alexandria, Virginia and Baltimore, Maryland.</p>
                             <ul className="actions">
-                                <li><Link to="/landing" className="button next">Get Started</Link></li>
+                                 <li><a href="https://secure.lawpay.com/pages/blakeimmigration/trust" className="button fit">Pay Online</a></li>
                             </ul>
                         </div>
                     </section>
