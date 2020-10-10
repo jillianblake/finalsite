@@ -12,7 +12,7 @@ const Services = (props) => (
         </Helmet>
     
 <BannerServices />
-     <div id="main" className="alt">
+   
 
             <section id="one">
                 <div className="inner">
