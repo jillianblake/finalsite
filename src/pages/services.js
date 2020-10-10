@@ -20,8 +20,15 @@ const Services = (props) => (
                
                         <div className="col-4">
                             <h3>Removal Defense</h3>
-                            <p> Asylum/Withholding of Removal
- </p>
+                            <ul>
+                                            <li>Asylum/Withholding of Removal</li>
+                                            <li>Convention Against Torture (CAT) Protection </li>
+                                            <li>Cancellation of Removal</li>
+                                            <li>Bond Hearings</li>
+                                            <li>Prosecutorial Disrection</li>
+                                            <li>Termination</li>
+
+                                        </ul>
                         </div>
                         <div className="col-4">
                             <h3>Humanitarian Visas</h3>
