@@ -13,7 +13,10 @@ const Services = (props) => (
     
 <BannerServices />
    
+ <div id="main" className="alt">
 
+            <section id="one">
+                <div className="inner">
             
          
                     <div className="grid-wrapper">
@@ -62,7 +65,9 @@ const Services = (props) => (
                     </div>
 
        
-   
+   </div>
+</section>
+</div>
                    
    
                 
