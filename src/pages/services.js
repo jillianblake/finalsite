@@ -13,17 +13,7 @@ const Services = (props) => (
     
 <BannerServices />
     
-        <div id="main" className="alt">
-            <section id="one">
-                <div className="inner">
-                     <h4>Removal Defense</h4>
-                                <p><span className="image left"><img src={pic013} alt="" /></span>Asylum/Withholding of Removal</p>
-    <h4>Humanitarian Visas</h4>
-                                
-                </div>
-            </section>
-        </div>
-
+        
     </Layout>
 )
 
