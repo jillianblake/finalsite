@@ -13,7 +13,26 @@ const Services = (props) => (
     
 <BannerServices />
     
-   
+        <h3>Lists</h3>
+                                <div className="grid-wrapper">
+                                    <div className="col-6">
+
+                                        <h4>Unordered</h4>
+                                        <ul>
+                                            <li>Dolor etiam magna etiam.</li>
+                                            <li>Sagittis lorem eleifend.</li>
+                                            <li>Felis dolore viverra.</li>
+                                        </ul>
+
+                                        <h4>Alternate</h4>
+                                        <ul className="alt">
+                                            <li>Dolor etiam magna etiam.</li>
+                                            <li>Sagittis lorem eleifend.</li>
+                                            <li>Felis feugiat viverra.</li>
+                                        </ul>
+
+                                    </div>
+    </div>
     
         
     </Layout>
