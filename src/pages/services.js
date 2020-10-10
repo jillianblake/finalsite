@@ -26,7 +26,7 @@ const Services = (props) => (
                                             <li>Cancellation of Removal</li>
                                             <li>Bond Hearings</li>
                                             <li>Prosecutorial Disrection</li>
-                                            <li>Termination</li>
+                                         
 
                                         </ul>
                         </div>
