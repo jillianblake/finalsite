@@ -30,24 +30,7 @@ const Testimonials = (props) => (
                           <p>"I was volunteering at a community center when Jillian came to give some information for immigrants. After hearing what she had to say there, I made an appointment because I was eager to have my case reopened and go before a judge. Jillian was able to reopen my case and after the whole process the judge granted me Cancellation of Removal. My experience with the firm has been great. I’ve always been given a full explanation of my immigration processes with patience. They’re aware and vigilant. Anything I needed to know about my case and court like any updates or courts – I was made aware immediately. My life has been affected positively. Thanks to her I feel confident to come out of the shadows."</p>
                           -C.M.
                         </div>
-                        <div className="col-6">
-                            <h3>Family-based Petitions</h3>
-                           <ul>
-                                            <li>Permanent Residence
-</li>
-                                            <li>Adjustment of Status</li>
-                                            <li>Provisional Waivers</li>
-                                            <li>Criminal Waivers</li>
-                                            <li>Petitions to Remove Conditions</li>
-                                           
-
-                                        </ul>
-                        </div>
- <div className="col-6">
-                            <h3>Naturalization</h3>
-</div>
-                    </div>
-
+                        
        
    </div>
 </section>
@@ -60,4 +43,4 @@ const Testimonials = (props) => (
     </Layout>
 )
 
-export default Services
+export default Testimonials
