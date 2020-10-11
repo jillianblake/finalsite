@@ -15,7 +15,7 @@ const Menu = (props) => (
     <li><Link onClick={props.onToggleMenu} to="/contact">Contact Us</Link></li>
             </ul>
             <ul className="actions vertical">
-                <li><a href="#" className="button special fit">Call Us (703) 594-7857</a></li>
+                <li><a href="tel:7035947857" className="button special fit">Call Us (703) 594-7857</a></li>
                 <li><a href="https://secure.lawpay.com/pages/blakeimmigration/trust" className="button fit">Pay Online</a></li>
             </ul>
         </div>
