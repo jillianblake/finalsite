@@ -32,7 +32,32 @@ const Victories = (props) => (
                                             <li>Asylum granted for Honduran client in Arlington Immigration Court based on domestic violence she suffered from her former partner including a violent stabbing and attempted murder.</li>
                                             <li>Affirmative application for asylum approved at the Arlington Asylum Office for Turkish client based on her fear of political persecution.</li>
                                            </ul>
-                                         
+                                           <h3>2018</h3>
+                            <ul>
+                                            <li>Cancellation of Removal for Non-Legal Permanent Residents granted in Arlington Immigration Court for Honduran client based on the "exceptional and extremely unusual" hardship his U.S. citizen children, including a son who suffers from muscular dystrophy, would face if he were removed from the United States.</li>
+                                            <li>Application for adjustment of status (green card) approved by U.S. Citizenship and Immigration Services (USCIS) for South Korean client based on her marriage to a U.S. citizen.</li>
+                                            <li>Humanitarian asylum granted for Guatemalan client in Baltimore Immigration Court based on the severity of past persecution she suffered in her home country including child abuse and rape.</li>
+                 
+                                           </ul>
+<h3>2017</h3>
+                     <ul>
+                                            <li>Secured lowest possible bond for detained client from Immigration Judge in Arlington Immigration Court.</li>
+                                            <li>Obtained custody and Special Immigrant Juvenile Status (SIJS) orders for two minor El Salvadoran clients in Prince George's County, Maryland Circuit Court.</li>
+                                  
+                                           </ul>   
+<h3>2016</h3>
+<ul>
+                                            <li>Asylum granted in Arlington Immigration Court for El Salvadoran mother and child clients based on their fear of domestic violence.</li>
+                                            <li>Registered a foreign custody order and obtained Special Immigrant Juvenile Status (SIJS) orders for three minor Guatemalan clients in Montgomery County, Maryland Circuit Court.</li>
+                                            <li>Motion to Reopen a removal order granted by Baltimore Immigration Court for Honduran client who was not given notice of her removal hearing.</li>
+                 
+                                    </ul>
+ <h3>2015</h3>   
+ <ul>
+                                            <li>Legal Permanent Resident (LPR) Cancellation of Removal granted for detained Nicaraguan client in Arlington Immigration Court.</li>
+                                            <li>Violence Against Women Act (VAWA) petition approved by U.S. Citizenship and Immigration Services (USCIS) for Filipina client who was abused by her U.S. citizen husband.</li>
+                                  
+                                           </ul>   
    </div>
 </section>
 </div>
