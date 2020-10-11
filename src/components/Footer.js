@@ -5,7 +5,7 @@ const Footer = (props) => (
         <div className="inner">
             <ul className="icons">
                 
-                <li><a href="#" className="icon alt fa-facebook"><span className="label">Facebook</span></a></li>
+                <li><a href="https://www.facebook.com/blakeimmigration" className="icon alt fa-facebook"><span className="label">Facebook</span></a></li>
              
                 
             </ul>
