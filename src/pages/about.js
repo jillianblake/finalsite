@@ -23,9 +23,7 @@ const About = (props) => (
         <div id="main">
             <section id="one">
                 <div className="inner">
-                    <header className="major">
-                        <h3>We handle each case with compassion, diligence, and integrity.</h3>
-                    </header>
+                   
                 </div>
             </section>
             <section id="two" className="spotlights">
