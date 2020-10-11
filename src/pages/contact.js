@@ -6,8 +6,8 @@ import BannerContact from '../components/BannerContact'
 const Contact = (props) => (
     <Layout>
         <Helmet>
-            <title>Services</title>
-            <meta name="description" content="Services Page" />
+            <title>Contact</title>
+            <meta name="description" content="Contact Page" />
         </Helmet>
     
 <BannerContact />
