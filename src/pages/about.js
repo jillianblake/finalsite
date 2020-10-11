@@ -28,7 +28,7 @@ const About = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <Link to="/about" className="image">
+                    <Link to="/jillian" className="image">
                         <img src={pic08} alt="" />
                     </Link>
                     <div className="content">
