@@ -16,11 +16,11 @@ const Victories = (props) => (
 
             <section id="one">
                 <div className="inner">
-    <header className="major">
+   
                       
                     
     <h4><p>We have represented clients from all over the world including El Salvador, Honduras, Guatemala, Mexico, Costa Rica, Nicaragua, Venezuela, Colombia, Cuba, Jamaica, Haiti, Peru, Philippines, Pakistan, Azerbaijan, Turkey, Ukraine, Turkmenistan, Iran, Ethiopia, Cameroon, Sierra Leone, Mongolia, Vietnam, South Korea, China and Ghana. Below is a sample of some of our victories: </p></h4>
-            </header>
+            
          <h3>2020</h3>
                             <ul>
                                             <li><b>Violence Against Women Act (VAWA) petition</b> approved by U.S. Citizenship and Immigration Services (USCIS) for Honduran client who was abused by her U.S. lawful permanent resident husband (2020).
