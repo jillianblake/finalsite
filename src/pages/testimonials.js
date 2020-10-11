@@ -31,7 +31,7 @@ const Testimonials = (props) => (
                           -C.M.
                         </div>
                         
-       
+       </div>
    </div>
 </section>
 </div>
