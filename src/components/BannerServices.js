@@ -7,7 +7,7 @@ const BannerServices = (props) => (
                 <h1>Services</h1>
             </header>
             <div className="content">
-                <p>Removal Defense, Asylum, Family-Based Petitions, Naturalization</p>
+                <p>Removal Defense, Humanitarian Visas, Family-Based Petitions, Naturalization</p>
             </div>
         </div>
     </section>
