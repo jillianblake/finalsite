@@ -6,8 +6,8 @@ import BannerVictories from '../components/BannerVictories'
 const Victories = (props) => (
     <Layout>
         <Helmet>
-            <title>Services</title>
-            <meta name="description" content="Services Page" />
+            <title>Victories</title>
+            <meta name="description" content="Victories Page" />
         </Helmet>
     
 <BannerVictories />
@@ -44,4 +44,4 @@ const Victories = (props) => (
     </Layout>
 )
 
-export default Services
+export default Victories
