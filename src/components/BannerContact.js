@@ -1,6 +1,6 @@
 import React from 'react'
 
-const BannerServices = (props) => (
+const BannerContact = (props) => (
     <section id="banner" className="style2">
         <div className="inner">
             <header className="major">
