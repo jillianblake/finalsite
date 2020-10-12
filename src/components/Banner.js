@@ -3,7 +3,7 @@ import pic06 from '../assets/images/pic17.png'
 
 
 const Banner = (props) => (
-    <img src={pic17} width=200 height=50 alt="" />
+  
 
     
     <section id="banner" className="major">
