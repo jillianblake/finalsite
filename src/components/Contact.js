@@ -24,7 +24,7 @@ const Contact = (props) => (
                         <li><input type="reset" value="Clear" /></li>
                     </ul>
                 </form>
-    <img src={pic16} width="50" height="50" alt="" />
+    <img src={pic16} width="10" height="10" alt="" />
 
             </section>
             <section className="split">
