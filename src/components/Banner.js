@@ -1,5 +1,5 @@
 import React from 'react'
-import pic17 from '../assets/images/pic17.jpg'
+import pic17 from '../assets/images/pic17.png'
 
 const Banner = (props) => (
     <section id="banner" className="major">
