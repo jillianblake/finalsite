@@ -1,4 +1,6 @@
 import React from 'react'
+import pic16 from '../assets/images/pic16.jpg'
+
 
 const Contact = (props) => (
     <section id="contact">
@@ -22,6 +24,8 @@ const Contact = (props) => (
                         <li><input type="reset" value="Clear" /></li>
                     </ul>
                 </form>
+    <img src={pic08} alt="" />
+
             </section>
             <section className="split">
                 <section>
