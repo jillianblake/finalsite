@@ -6,7 +6,7 @@ const Contact = (props) => (
     <section id="contact">
         <div className="inner">
             <section>
-                <form method="post" action="mailto:jillian@blakeimmigration.com">
+                <form method="post" action="#">
                     <div className="field half first">
                         <label htmlFor="name">Name</label>
                         <input type="text" name="name" id="name" />
