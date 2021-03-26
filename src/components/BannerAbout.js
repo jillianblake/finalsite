@@ -5,7 +5,8 @@ const BannerAbout = (props) => (
         <div className="inner">
             <header className="major">
                 <h1>About Us</h1>
-    <i><h1>Acerca de</h1></i>
+                    <h1>Acerca de</h1>
+
             </header>
             <div className="content">
                 <p>Meet Our Team</p>
