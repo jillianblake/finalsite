@@ -41,6 +41,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Services</h3>
+<i><h3>Servicios</h3></i>
                                 <p>Removal Defense, Humanitarian Visas, Family-Based Petitions, Naturalization</p>
                             </header>
                             <Link to="/services" className="link primary"></Link>
@@ -48,6 +49,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Testimonials</h3>
+<i><h3>Testimonios</h3></i>
                                 <p>Hear From People We've Helped</p>
                             </header>
                             <Link to="/testimonials" className="link primary"></Link>
@@ -55,6 +57,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>Victories</h3>
+   <i><h3>Victorias</h3></i>
                                 <p>See What We've Done</p>
                             </header>
                             <Link to="/victories" className="link primary"></Link>
@@ -62,6 +65,8 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic15})`}}>
                             <header className="major">
                                 <h3>Social Media</h3>
+                              <i> <h3>Redes Sociales</h3></i>
+
                                 <p>Stay Up to Date</p>
                             </header>
                             <Link to="/social" className="link primary"></Link>
@@ -69,6 +74,7 @@ class HomeIndex extends React.Component {
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
                                 <h3>Contact Us</h3>
+<i><h3>Contacto</h3></i>
                                 <p>Contact Us For a Consultation</p>
                             </header>
                             <Link to="/contact" className="link primary"></Link>
@@ -78,6 +84,7 @@ class HomeIndex extends React.Component {
                         <div className="inner">
                             <header className="major">
                                 <h2>Mission</h2>
+
                             </header>
                             <p>Our law firm is dedicated to offering excellent, affordable legal services to immigrants and refugees in the Washington, DC area. We represent our clients before the Arlington and Baltimore Immigration Courts, the Board of Immigration Appeals (BIA) and U.S. Citizenship and Immigration Services (USCIS) with a focus on removal (deportation) defense, asylum and family-based immigrant petitions. Our offices are conveniently located in Old Town Alexandria, Virginia and Baltimore, Maryland.</p>
                             <ul className="actions">
