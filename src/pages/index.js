@@ -34,7 +34,7 @@ class HomeIndex extends React.Component {
                                 <h3>About Us</h3>
 <i><h3>Acerca de</h3></i>
                     
-                                <p>Meet Our Team</p>
+                                
                             </header>
                             <Link to="/about" className="link primary"></Link>
                         </article>
@@ -42,7 +42,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h3>Services</h3>
 <i><h3>Servicios</h3></i>
-                                <p>Removal Defense, Humanitarian Visas, Family-Based Petitions, Naturalization</p>
+                                
                             </header>
                             <Link to="/services" className="link primary"></Link>
                         </article>
@@ -50,7 +50,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h3>Testimonials</h3>
 <i><h3>Testimonios</h3></i>
-                                <p>Hear From People We've Helped</p>
+                                
                             </header>
                             <Link to="/testimonials" className="link primary"></Link>
                         </article>
@@ -58,7 +58,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h3>Victories</h3>
    <i><h3>Victorias</h3></i>
-                                <p>See What We've Done</p>
+                               
                             </header>
                             <Link to="/victories" className="link primary"></Link>
                         </article>
@@ -67,7 +67,7 @@ class HomeIndex extends React.Component {
                                 <h3>Social Media</h3>
                               <i> <h3>Redes Sociales</h3></i>
 
-                                <p>Stay Up to Date</p>
+                         
                             </header>
                             <Link to="/social" className="link primary"></Link>
                         </article>
@@ -75,7 +75,7 @@ class HomeIndex extends React.Component {
                             <header className="major">
                                 <h3>Contact Us</h3>
 <i><h3>Contacto</h3></i>
-                                <p>Contact Us For a Consultation</p>
+                               
                             </header>
                             <Link to="/contact" className="link primary"></Link>
                         </article>
@@ -84,9 +84,11 @@ class HomeIndex extends React.Component {
                         <div className="inner">
                             <header className="major">
                                 <h2>Mission</h2>
+                                <h2>Misión</h2>
 
                             </header>
                             <p>Our law firm is dedicated to offering excellent, affordable legal services to immigrants and refugees in the Washington, DC area. We represent our clients before the Arlington and Baltimore Immigration Courts, the Board of Immigration Appeals (BIA) and U.S. Citizenship and Immigration Services (USCIS) with a focus on removal (deportation) defense, asylum and family-based immigrant petitions. Our offices are conveniently located in Old Town Alexandria, Virginia and Baltimore, Maryland.</p>
+<i><p>Nuestro bufete de abogados se dedica a ofrecer servicios legales excelentes y económicos a inmigrantes y refugiados en el área de Washington, DC. Representamos a nuestros clientes ante los Tribunales de Inmigración de Arlington y Baltimore, la Junta de Apelaciones de Inmigración (BIA) y los Servicios de Ciudadanía e Inmigración de EE. UU. (USCIS) con un enfoque en la defensa de deportación, asilo y peticiones de inmigrantes basadas en la familia. Nuestras oficinas están convenientemente ubicadas en Old Town Alexandria, Virginia y Baltimore, Maryland.</p></i>
                             <ul className="actions">
                                  <li><a href="tel:7035947857" className="button next scrolly">Call Us (703) 594-7857</a></li>
                             </ul>
