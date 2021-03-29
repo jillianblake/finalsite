@@ -18,7 +18,7 @@ const Banner = (props) => (
             <div className="content">
                 
                 <ul className="actions">
-                    <li><a href="tel:7035947857" className="button next scrolly"> (703) 594-7857</a></li>
+                    <li><a href="tel:7035947857" className="button next scrolly"> Tel (703) 594-7857</a></li>
                 </ul>
 
             </div>
