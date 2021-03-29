@@ -84,7 +84,7 @@ class HomeIndex extends React.Component {
                         <div className="inner">
                             <header className="major">
                                 <h2>Mission</h2>
-                                <h2>Misión</h2>
+                                <i><h2>Misión</h2></i>
 
                             </header>
                             <p>Our law firm is dedicated to offering excellent, affordable legal services to immigrants and refugees in the Washington, DC area. We represent our clients before the Arlington and Baltimore Immigration Courts, the Board of Immigration Appeals (BIA) and U.S. Citizenship and Immigration Services (USCIS) with a focus on removal (deportation) defense, asylum and family-based immigrant petitions. Our offices are conveniently located in Old Town Alexandria, Virginia and Baltimore, Maryland.</p>
