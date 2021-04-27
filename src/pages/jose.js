@@ -2,7 +2,7 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-import pic22 from '../assets/images/pic22.jpg'
+import pic21 from '../assets/images/pic21.jpg'
 
 const Jose= (props) => (
     <Layout>
