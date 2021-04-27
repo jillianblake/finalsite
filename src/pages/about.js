@@ -38,7 +38,7 @@ const About = (props) => (
                                 <h3>Jillian Blake, Esq.</h3>
                                 <h4>Principal Attorney/Owner</h4>
                             </header>
-                            <p>Jillian is an attorney and owner of Blake Immigration Law since 2015. The firm was originally founded as Blake & Wilson Immigration Law with partner Nicole Wilson and became Blake Immigration Law in 2020. Jillian grew up in San Francisco, California and earned her bachelor’s degree in international studies from Johns Hopkins University and master’s degree in international relations from the Johns Hopkins School of Advanced International Studies (SAIS). She then obtained her law degree from the University of Michigan Law School. During law school she discovered her passion for immigration and asylum law while interning at Asylum Access—Ecuador and Capital Area Immigrants’ Rights (CAIR) Coalition. Jillian is a member of the Maryland State Bar and the American Immigration Lawyers Association (AILA). She is also currently an adjunct professor of immigration law at George Mason University Law School in Arlington, Virginia. Jillian enjoys working in immigration law because she is able to meet people from all over the world and help families stay together. In her free time Jillian enjoys watching movies, writing, watching Cleveland Browns football and Nationals baseball, and spending time with her dog, Cha Cha.</p>
+                            <p></p>
                             <ul className="actions">
                                 <li><a href="mailto:jillian@blakeimmigration.com" className="button fit">jillian@blakeimmigration.com</a></li>
                             </ul>
@@ -72,7 +72,7 @@ const About = (props) => (
                                 <h3>Jennifer Araujo</h3>
 <h4>Senior Paralegal</h4>
                             </header>
-                            <p>Jennifer is a senior paralegal at Blake Immigration Law and has worked at the firm since 2017. She was born and raised in northern Virginia and earned her bachelor’s degree in political science from the Pennsylvania State University. During college she studied abroad in Barcelona, Spain. Jennifer currently attends law school part-time at the University of the District of Columbia (UDC) David A. Clarke School of Law. Jennifer also volunteers at the UDC Immigration and Human Rights Legal Clinic processing applications for adjustment of status and conducting legal research. She is passionate about helping immigrants obtain legal status in the United States and likes interacting with people from different cultural backgrounds. In her free time Jennifer enjoys spending time with her family and baking cakes.</p>
+                            <p></p>
                             <ul className="actions">
                                 <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
                             </ul>
@@ -89,7 +89,7 @@ const About = (props) => (
                                 <h3>Karina Merchant</h3>
                             <h4>Senior Paralegal</h4>
                             </header>
-                            <p>Karina is a senior paralegal at Blake Immigration Law and has worked at the firm since 2017. She was born in Chihuahua, Mexico and immigrated to the United States with her family at the age of five. She then grew up in northern Virginia. Karina obtained her an associate’s degree from Northern Virginia Community College and is working towards her bachelor’s degree at George Mason University. Karina became interested in immigration law when she worked as an administrative assistant at another immigration law office and volunteered for the CARA Family Detention Protect. She feels humbled by the trust immigrants put in her to share their stories, especially about hardships they have endured. She enjoys the moment when she can see the direct impact her work has had on a client’s life because they have been able to gain legal status. She also really enjoys spending time with her dog, Stella.</p>
+                            <p></p>
                             <ul className="actions">
                            <li><a href="mailto:karina@blakeimmigration.com" className="button fit">karina@blakeimmigration.com</a></li>
 
@@ -107,7 +107,7 @@ const About = (props) => (
                                 <h3>Jose Alvarado</h3>
 <h4>Paralegal</h4>
                             </header>
-                            <p>Jose is a paralegal at Blake Immigration Law and recently joined the firm in 2020. Jose was born in El Salvador and came to the United States with his family when he was eight years old. Jose earned his associate’s degree from Northern Virginia Community College and graduated with his bachelor’s degree in public administration from George Mason University. Jose interned at Just Neighbors, a non-profit organization that provides legal services to immigrants and worked at Grace Ministries, another non-profit organization that provides low-income immigrants with food and clothing. During college he was a member of Mason DREAMers, a student group that aids undocumented students in reaching their educational goals. Jose enjoys working in immigration law because he wants to help immigrants achieve their goals without fear of deportation. As a DACA recipient and first-generation college graduate himself, he knows how hard immigrants work to achieve their ambitions even with the obstacles they face. In his free time Jose likes to read, dance, and spend time with his pets. He and his family care for four dogs, one cat, and four birds.</p>
+                            <p></p>
                             <ul className="actions">
                             <li><a href="mailto:jose@blakeimmigration.com" className="button fit">jose@blakeimmigration.com</a></li>
 
@@ -123,7 +123,7 @@ const About = (props) => (
                         <div className="inner">
                             <header className="major">
                                 <h3>Diana Maravilla</h3>
-                                <h4>Receptionist/Administration Assistant</h4>
+                                <h4>Receptionist/Administrative Assistant</h4>
                             </header>
                             <p> </p>
                             <ul className="actions">
