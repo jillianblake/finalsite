@@ -15,8 +15,8 @@ const Diana= (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h1>Jose Alvarado</h1>
-    <h3>Paralegal</h3>
+                        <h1>Diana Maravilla</h1>
+    <h3>Receptionist/Administrative Assistant</h3>
                     </header>
                     <img src={pic22} alt="" />
                     <p> </p>
