@@ -9,7 +9,7 @@ const BannerAbout = (props) => (
 
             </header>
             <div className="content">
-                <p>Meet Our Team</p>
+               
             </div>
         </div>
     </section>
