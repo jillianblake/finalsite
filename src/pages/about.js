@@ -6,9 +6,9 @@ import BannerAbout from '../components/BannerAbout'
 
 import pic18 from '../assets/images/pic18.jpg'
 import pic09 from '../assets/images/pic09.jpg'
-import pic10 from '../assets/images/pic10.jpg'
-import pic11 from '../assets/images/pic11.jpg'
-import pic12 from '../assets/images/pic12.jpg'
+import pic20 from '../assets/images/pic20.jpg'
+import pic21 from '../assets/images/pic21.jpg'
+import pic22 from '../assets/images/pic22.jpg'
 
 
 const About = (props) => (
