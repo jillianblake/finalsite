@@ -9,6 +9,7 @@ import pic19 from '../assets/images/pic19.jpg'
 import pic20 from '../assets/images/pic20.jpg'
 import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
+import pic22 from '../assets/images/pic22.jpg'
 
 
 const About = (props) => (
@@ -45,7 +46,7 @@ const About = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="/ami" className="image">
+                    <Link to="/amelia" className="image">
                         <img src={pic19} alt="" />
                     </Link>
                     <div className="content">
@@ -110,6 +111,23 @@ const About = (props) => (
                             <ul className="actions">
                             <li><a href="mailto:jose@blakeimmigration.com" className="button fit">jose@blakeimmigration.com</a></li>
 
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+<section>
+                    <Link to="/diana" className="image">
+                        <img src={pic22} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Diana Maravilla</h3>
+                                <h4>Receptionist/Administration Assistant</h4>
+                            </header>
+                            <p> </p>
+                            <ul className="actions">
+                                <li><a href="mailto:diana@blakeimmigration.com" className="button fit">diana@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
