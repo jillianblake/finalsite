@@ -93,7 +93,7 @@ const About = (props) => (
                             <h4>Senior Paralegal</h4>
                             </header>
                             <p>Karina has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her A.A. in liberal arts from Northern Virginia Community College. Read more about Karina...</p>
-    <p>Karina has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her A.A. in liberal arts from Northern Virginia Community College. Read more about Karina...</p>
+    
     
 <i><p>Karina ha sido paralegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su título de A.A. en artes liberales del Colegio Comunitario de Virginia del Norte. Leer más sobre Karina ...</p></i>
                             <ul className="actions">
