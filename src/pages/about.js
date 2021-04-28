@@ -56,7 +56,7 @@ const About = (props) => (
                                 <h3>Amelia Wester, Esq.</h3>
                                 <h4>Associate Attorney</h4>
                             </header>
-                            <p> Amelia has been an attorney at Blake Immigration Law since 2021. She grew up in Northern Ohio and earned her B.A. in international studies and Latin American studies from Miami University. She obtained her J.D. from Case Western Reserve University School of Law. Read more about Amelia...</p>
+                            <p> Amelia has been an attorney at Blake Immigration Law since 2021. She grew up in northern Ohio and earned her B.A. in international studies and Latin American studies from Miami University. She obtained her J.D. from Case Western Reserve University School of Law. Read more about Amelia...</p>
                             <i><p>Amelia ha sido abogada en Blake Immigration Law desde 2021. Creció en el norte de Ohio y obtuvo su B.A. en estudios internacionales y estudios latinoamericanos de la Universidad de Miami. Obtuvo su J.D. de la Facultad de Derecho de la Universidad Case Western Reserve. Leer más sobre Amelia ...</p></i>
                             <ul className="actions">
                                 <li><a href="mailto:amelia@blakeimmigration.com" className="button fit">amelia@blakeimmigration.com</a></li>
@@ -74,7 +74,7 @@ const About = (props) => (
                                 <h3>Jennifer Araujo</h3>
 <h4>Senior Paralegal</h4>
                             </header>
-                            <p>Jennifer has been a paralegal at Blake Immigration Law since 2017. She grew up in Northern Virginia and earned her B.A. in political science from the Pennsylvania State University. Read more about Jennifer...</p>
+                            <p>Jennifer has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her B.A. in political science from the Pennsylvania State University. Read more about Jennifer...</p>
     <i><p>Jennifer ha sido paralegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su B.A. en ciencias políticas de la Universidad Estatal de Pensilvania. Leer más sobre Jennifer ... </p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
@@ -92,7 +92,10 @@ const About = (props) => (
                                 <h3>Karina Merchant</h3>
                             <h4>Senior Paralegal</h4>
                             </header>
-                            <p></p>
+                            <p>Karina has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her A.A. in liberal arts from Northern Virginia Community College. Read more about Karina...</p>
+    <p>Karina has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her A.A. in liberal arts from Northern Virginia Community College. Read more about Karina...</p>
+    
+<i><p>Karina ha sido paralegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su título de A.A. en artes liberales del Colegio Comunitario de Virginia del Norte. Leer más sobre Karina ...</p></i>
                             <ul className="actions">
                            <li><a href="mailto:karina@blakeimmigration.com" className="button fit">karina@blakeimmigration.com</a></li>
 
