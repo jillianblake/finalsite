@@ -74,7 +74,9 @@ const About = (props) => (
                                 <h3>Jennifer Araujo</h3>
 <h4>Senior Paralegal</h4>
                             </header>
-                            <p></p>
+                            <p>Jennifer has been a parelegal at Blake Immigration Law since 2017. She grew up in Northern Virginia and earned her B.A. in political science from the Pennsylvania State University. Read more about Jennifer...</p>
+    <p>Jennifer has been a parelegal at Blake Immigration Law since 2017. She grew up in Northern Virginia and earned her B.A. in political science from the Pennsylvania State University. Read more about Jennifer...</p>
+    <i><p>Jennifer ha sido parelegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su B.A. en ciencias políticas de la Universidad Estatal de Pensilvania. Leer más sobre Jennifer ... </p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jennifer@blakeimmigration.com" className="button fit">jennifer@blakeimmigration.com</a></li>
                             </ul>
