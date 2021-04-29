@@ -38,7 +38,7 @@ const About = (props) => (
                                 <h3>Jillian Blake, Esq.</h3>
                                 <h4>Principal Attorney/Owner</h4>
                             </header>
-                            <p>Jillian has been an attorney at Blake Immigration Law since 2015. She grew up in San Francisco, California and earned her B.A. and M.A. in international relations from Johns Hopkins University. She obtained her J.D. from the University of Michigan Law School. Read more about Jillian...</p>
+                            <p>Jillian has been an attorney at Blake Immigration Law since 2015. She grew up in San Francisco, California and earned her B.A. and M.A. in international relations from Johns Hopkins University. She received her J.D. from the University of Michigan Law School. Read more about Jillian...</p>
     <i><p>Jillian ha sido abogada en Blake Immigration Law desde 2015. Creció en San Francisco, California y obtuvo su B.A. y M.A. en relaciones internacionales de la Universidad Johns Hopkins. Obtuvo su J.D. de la Facultad de Derecho de la Universidad de Michigan. Leer más sobre Jillian ...</p></i>
                             <ul className="actions">
                                 <li><a href="mailto:jillian@blakeimmigration.com" className="button fit">jillian@blakeimmigration.com</a></li>
@@ -56,7 +56,7 @@ const About = (props) => (
                                 <h3>Amelia Wester, Esq.</h3>
                                 <h4>Associate Attorney</h4>
                             </header>
-                            <p> Amelia has been an attorney at Blake Immigration Law since 2021. She grew up in northern Ohio and earned her B.A. in international studies and Latin American studies from Miami University. She obtained her J.D. from Case Western Reserve University School of Law. Read more about Amelia...</p>
+                            <p> Amelia has been an attorney at Blake Immigration Law since 2021. She grew up in northern Ohio and earned her B.A. in international studies and Latin American studies from Miami University. She received her J.D. from Case Western Reserve University School of Law. Read more about Amelia...</p>
                             <i><p>Amelia ha sido abogada en Blake Immigration Law desde 2021. Creció en el norte de Ohio y obtuvo su B.A. en estudios internacionales y estudios latinoamericanos de la Universidad de Miami. Obtuvo su J.D. de la Facultad de Derecho de la Universidad Case Western Reserve. Leer más sobre Amelia ...</p></i>
                             <ul className="actions">
                                 <li><a href="mailto:amelia@blakeimmigration.com" className="button fit">amelia@blakeimmigration.com</a></li>
@@ -113,7 +113,9 @@ const About = (props) => (
                                 <h3>Jose Alvarado</h3>
 <h4>Paralegal</h4>
                             </header>
-                            <p></p>
+                            <p>Jose has been a paralegal at Blake Immigration Law since 2020. He grew up in northern Virginia and earned his B.A. in public policy George Mason  University. Read more about Jose... </p>
+    
+<i><p>José ha sido paralegal en Blake Immigration Law desde 2020. Creció en el norte de Virginia y obtuvo su B.A. en políticas públicas de la Universidad George Mason. Leer más sobre José ...</p></i>
                             <ul className="actions">
                             <li><a href="mailto:jose@blakeimmigration.com" className="button fit">jose@blakeimmigration.com</a></li>
 
