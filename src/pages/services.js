@@ -40,8 +40,8 @@ const Services = (props) => (
                                           <i>  <li>Asilo/Suspensión de Expulsión</li>
                                             <li>La Convención contra la Tortura (CAT) Protección </li>
                                             <li>Cancelación de Expulsión</li>
-                                            <li>Discreción Fiscal</li>
-                                            <li>Apelaciones de Inmigración</li></i>
+                                            <li>Audiencias de Fianza</li>
+                                            <li>Discreción Fiscal</li></i>
                                            
 
                                         </ul>
