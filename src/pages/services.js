@@ -34,14 +34,27 @@ const Services = (props) => (
                                         </ul>
                         </div>
 <div className="col-6">
-                          <i>  <h3>Family-based Petitions</h3></i>
+                           <i> <h3>Defensa Contra Deportación 
+</h3></i>
+                          <ul>
+                                          <i>  <li>Asilo/Suspensión de Expulsión</li>
+                                            <li>La Convención contra la Tortura (CAT) Protección </li>
+                                            <li>Cancelación de Expulsión</li>
+                                            <li>Discreción Fiscal</li>
+                                            <li>Apelaciones de Inmigración</li></i>
+                                           
+
+                                        </ul>
+                        </div>
+<div className="col-6">
+                            <h3>Family-based Petitions</h3>
                            <ul>
-                                           <i> <li>Permanent Residence
+                                            <li>Permanent Residence
 </li>
                                             <li>Adjustment of Status</li>
                                             <li>Provisional Waivers</li>
                                             <li>Criminal Waivers</li>
-                                            <li>Petitions to Remove Conditions</li></i>
+                                            <li>Petitions to Remove Conditions</li>
                                            
 
                                         </ul>
@@ -63,19 +76,7 @@ const Services = (props) => (
  <div className="col-6">
                             <h3>Naturalization</h3>
 </div>
-<div className="col-6">
-                            <h3>Defensa Contra Deportación 
-</h3>
-                          <ul>
-                                            <li>Asilo/Suspensión de Expulsión</li>
-                                            <li>La Convención contra la Tortura (CAT) Protección </li>
-                                            <li>Cancelación de Expulsión</li>
-                                            <li>Discreción Fiscal</li>
-                                            <li>Apelaciones de Inmigración</li>
-                                           
 
-                                        </ul>
-                        </div>
                     </div>
 
        
