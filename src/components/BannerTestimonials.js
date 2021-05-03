@@ -5,9 +5,11 @@ const BannerTestimonials = (props) => (
         <div className="inner">
             <header className="major">
                 <h1>Testimonials</h1>
+                    <i><h1>Testimonios</h1></i>
+
             </header>
             <div className="content">
-                <p>Hear from people we've helped</p>
+              
             </div>
         </div>
     </section>
