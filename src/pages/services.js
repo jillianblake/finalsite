@@ -33,6 +33,19 @@ const Services = (props) => (
 
                                         </ul>
                         </div>
+<div className="col-6">
+                          <i>  <h3>Family-based Petitions</h3></i>
+                           <ul>
+                                           <i> <li>Permanent Residence
+</li>
+                                            <li>Adjustment of Status</li>
+                                            <li>Provisional Waivers</li>
+                                            <li>Criminal Waivers</li>
+                                            <li>Petitions to Remove Conditions</li></i>
+                                           
+
+                                        </ul>
+                        </div>
                         <div className="col-6">
                             <h3>Humanitarian Visas</h3>
                           <ul>
@@ -46,19 +59,7 @@ const Services = (props) => (
 
                                         </ul>
                         </div>
-                        <div className="col-6">
-                            <h3>Family-based Petitions</h3>
-                           <ul>
-                                            <li>Permanent Residence
-</li>
-                                            <li>Adjustment of Status</li>
-                                            <li>Provisional Waivers</li>
-                                            <li>Criminal Waivers</li>
-                                            <li>Petitions to Remove Conditions</li>
-                                           
-
-                                        </ul>
-                        </div>
+                        
  <div className="col-6">
                             <h3>Naturalization</h3>
 </div>
