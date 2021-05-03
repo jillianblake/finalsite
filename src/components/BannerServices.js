@@ -5,7 +5,7 @@ const BannerServices = (props) => (
         <div className="inner">
             <header className="major">
                 <h1>Services</h1>
-    <h1>Servicios</h1>
+   <i><h1>Servicios</h1></i>
             </header>
             <div className="content">
                 
