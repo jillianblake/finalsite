@@ -92,10 +92,10 @@ const About = (props) => (
                                 <h3>Karina Merchant</h3>
                             <h4>Senior Paralegal</h4>
                             </header>
-                            <p>Karina has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her A.A. in liberal arts from Northern Virginia Community College. Read more about Karina...</p>
+                            <p>Karina has been a paralegal at Blake Immigration Law since 2017. She grew up in northern Virginia and earned her A.A. in liberal arts from Northern Virginia Community College. <a href="https://blakeimmigration.netlify.app/karina/">Read more about Karina...</a></p>
     
     
-<i><p>Karina ha sido paralegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su título de A.A. en artes liberales del Colegio Comunitario de Virginia del Norte. Leer más sobre Karina ...</p></i>
+<i><p>Karina ha sido paralegal en Blake Immigration Law desde 2017. Creció en el norte de Virginia y obtuvo su título de A.A. en artes liberales del Colegio Comunitario de Virginia del Norte. <a href="https://blakeimmigration.netlify.app/karina/">Leer más sobre Karina ...</a></p></i>
                             <ul className="actions">
                            <li><a href="mailto:karina@blakeimmigration.com" className="button fit">karina@blakeimmigration.com</a></li>
 
@@ -113,9 +113,9 @@ const About = (props) => (
                                 <h3>Jose Alvarado</h3>
 <h4>Paralegal</h4>
                             </header>
-                            <p>Jose has been a paralegal at Blake Immigration Law since 2020. He grew up in northern Virginia and earned his B.A. in public policy from George Mason  University. Read more about Jose... </p>
+                            <p>Jose has been a paralegal at Blake Immigration Law since 2020. He grew up in northern Virginia and earned his B.A. in public policy from George Mason  University. <a href="https://blakeimmigration.netlify.app/jose/">Read more about Jose... </a></p>
     
-<i><p>José ha sido paralegal en Blake Immigration Law desde 2020. Creció en el norte de Virginia y obtuvo su B.A. en políticas públicas de la Universidad George Mason. Leer más sobre José ...</p></i>
+<i><p>José ha sido paralegal en Blake Immigration Law desde 2020. Creció en el norte de Virginia y obtuvo su B.A. en políticas públicas de la Universidad George Mason. <a href="https://blakeimmigration.netlify.app/jose/">Leer más sobre José ...</a></p></i>
                             <ul className="actions">
                             <li><a href="mailto:jose@blakeimmigration.com" className="button fit">jose@blakeimmigration.com</a></li>
 
