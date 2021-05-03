@@ -26,14 +26,6 @@ const Testimonials = (props) => (
                            -N.B.
                         </div>
     
-      <div className="grid-wrapper">
-               
-                        <div className="col-6">
-                            
-                            <i><p>"La abogada que tuve en Miami cuando salí del centro de detención me recomendó [Blake] Immigration Law. Mi experiencia con el bufete siempre ha sido muy buena incluso desde la consulta cuando Jillian me explicó el proceso de mi caso. Jillian es una gran abogada, el hecho de que ella me hable en español es enorme y me ayudó a sentirme cómoda. En mi caso, fue favorable, y le debo la dedicación de Jillian y el hecho de que siempre ha sido más que una profesional. Mi resultado fue favorable, me concedieron asilo. Lo mejor de mi caso es que ahora estoy legalmente aquí en los Estados Unidos y que mi familia también puede estar legalmente en los Estados Unidos." -N.B.
-</p></i>
-                            -N.B.
-                        </div>
                         <div className="col-6">
                             
                           <p>"I was volunteering at a community center when Jillian came to give some information for immigrants. After hearing what she had to say there, I made an appointment because I was eager to have my case reopened and go before a judge. Jillian was able to reopen my case and after the whole process the judge granted me Cancellation of Removal. My experience with the firm has been great. I’ve always been given a full explanation of my immigration processes with patience. They’re aware and vigilant. Anything I needed to know about my case and court like any updates or courts – I was made aware immediately. My life has been affected positively. Thanks to her I feel confident to come out of the shadows."</p>
