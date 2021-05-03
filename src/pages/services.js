@@ -59,6 +59,27 @@ const Services = (props) => (
 
                                         </ul>
                         </div>
+<div className="col-6">
+                            <i><h3>Peticiones Familiares
+</h3></i>
+                           <ul>
+                                           <i> <li>Residencia Permanente
+
+</li>
+                                            <li>Ajuste de estatus
+</li>
+                                            <li>Proceso Consular
+</li>
+                                            <li>Peticiones I-601A
+</li>
+                                            <li>Perdones Criminales
+</li>
+                                          <li>•	Peticiones I-751
+
+</li>  </i>
+
+                                        </ul>
+                        </div>
                         <div className="col-6">
                             <h3>Humanitarian Visas</h3>
                           <ul>
