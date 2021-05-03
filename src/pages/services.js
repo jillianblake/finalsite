@@ -63,20 +63,12 @@ const Services = (props) => (
                             <i><h3>Peticiones Familiares
 </h3></i>
                            <ul>
-                                           <i> <li>Residencia Permanente
-
-</li>
-                                            <li>Ajuste de estatus
-</li>
-                                            <li>Proceso Consular
-</li>
-                                            <li>Peticiones I-601A
-</li>
-                                            <li>Perdones Criminales
-</li>
-                                          <li>•	Peticiones I-751
-
-</li>  </i>
+                                           <i> <li>Residencia Permanente</li>
+                                            <li>Ajuste de estatus</li>
+                                            <li>Proceso Consular</li>
+                                            <li>Peticiones I-601A</li>
+                                            <li>Perdones Criminales</li>
+                                          <li>Peticiones I-751</li>  </i>
 
                                         </ul>
                         </div>
@@ -93,9 +85,26 @@ const Services = (props) => (
 
                                         </ul>
                         </div>
-                        
+                          <div className="col-6">
+                            <i><h3>Visas Humanitarias</h3></i>
+                          <ul>
+                                           <i> <li>Visa Juvenil (SIJS)</li>
+                                            <li>Estatus de Protección Temporal (TPS)</li>
+                                            <li>La Visa U y La Visa T </li>
+                                            <li>Acta de Violencia Contra La Mujer (VAWA)</li>
+                                            <li>Acción Diferida para los Llegados en la Infancia (DACA)
+</li></i>
+                                           
+
+                                        </ul>
+                        </div>
  <div className="col-6">
                             <h3>Naturalization</h3>
+ <h3>Appeals</h3>
+</div>
+<div className="col-6">
+                            <i><h3>Naturalización</h3></i>
+ <i><h3>Apelaciones</h3></i>
 </div>
 
                     </div>
