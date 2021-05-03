@@ -5,9 +5,10 @@ const BannerVictories = (props) => (
         <div className="inner">
             <header className="major">
                 <h1>Victories</h1>
+    <i><h1>Victorias</h1></i>
             </header>
             <div className="content">
-                <p>See what we've done</p>
+                
             </div>
         </div>
     </section>
