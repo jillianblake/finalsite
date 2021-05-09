@@ -56,7 +56,7 @@ const About = (props) => (
                                 <h3>Amelia Wester, Esq.</h3>
                                 <h4>Associate Attorney</h4>
                             </header>
-                            <p> Amelia has been an attorney at Blake Immigration Law since 2021. She grew up in northern Ohio and earned her B.A. in international studies and Latin American studies from Miami University. She received her J.D. from Case Western Reserve University School of Law. <a href="https://blakeimmigration.netlify.app/amelia/">Read more about Amelia...</a></p>
+                            <p> Amelia has been an attorney at Blake Immigration Law since 2021. She grew up outside of Cleveland, Ohio and earned her B.A. in international studies and Latin American studies from Miami University. She received her J.D. from Case Western Reserve University School of Law. <a href="https://blakeimmigration.netlify.app/amelia/">Read more about Amelia...</a></p>
                             <i><p>Amelia ha sido abogada en Blake Immigration Law desde 2021. Creció en el norte de Ohio y obtuvo su B.A. en estudios internacionales y estudios latinoamericanos de la Universidad de Miami. Obtuvo su J.D. de la Facultad de Derecho de la Universidad Case Western Reserve. <a href="https://blakeimmigration.netlify.app/amelia/">Leer más sobre Amelia ...</a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:amelia@blakeimmigration.com" className="button fit">amelia@blakeimmigration.com</a></li>
