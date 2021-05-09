@@ -19,7 +19,8 @@ const Diana= (props) => (
     <h3>Receptionist/Administrative Assistant</h3>
                     </header>
                     <img src={pic22} alt="" />
-                    <p> </p>
+                    <p> Diana has been a receiptionist and administrative assistant at Blake Immigration Law since 2021. Diana grew up in Arlington, Virginia and earned her Immigration Law Specialist Paralegal Certificate at the Washington Online Learning Institute. She previously worked as a receptionist and assistant at medical and immigration law offices in northern Virginia. In her free time Diana likes to read, garden, and bake. She also likes to spend time with her family and friends, and her dog, Kiko. </p>
+    <i><p>Diana ha sido recepcionista y asistente administrativa en Blake Immigration Law desde 2021. Diana creció en Arlington, Virginia y obtuvo su Certificado de asistente legal de especialista en derecho de inmigración del Washington Online Learning Institute. Anteriormente trabajó como recepcionista y asistente en oficinas médicas y de inmigración en el norte de Virginia. En su tiempo libre, a Diana le gusta leer, trabajar en el jardín, y hornear. También le gusta pasar tiempo con su familia y amigos, y con su perro, Kiko.</p></i>
                 </div>
             </section>
         </div>
