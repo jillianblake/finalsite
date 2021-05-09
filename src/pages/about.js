@@ -133,8 +133,8 @@ const About = (props) => (
                                 <h3>Diana Maravilla</h3>
                                 <h4>Receptionist/Administrative Assistant</h4>
                             </header>
-                            <p> Diana has been a receiptionist and administrative assistant at Blake Immigration Law since 2021. Diana grew up in Arlington, Virginia and earned her Immigration Law Specialist Paralegal Certificate at the Washington Online Learning Institute. Read more about Diana... </p>
-    <i><p>Diana ha sido recepcionista y asistente administrativa en Blake Immigration Law desde 2021. Diana creció en Arlington, Virginia y obtuvo su Certificado de asistente legal de especialista en derecho de inmigración en el Washington Online Learning Institute. Leer más sobre Diana... </p></i>
+                            <p> Diana has been a receiptionist and administrative assistant at Blake Immigration Law since 2021. Diana grew up in Arlington, Virginia and earned her Immigration Law Specialist Paralegal Certificate at the Washington Online Learning Institute. <a href="https://blakeimmigration.netlify.app/diana/">Read more about Diana...</a> </p>
+    <i><p>Diana ha sido recepcionista y asistente administrativa en Blake Immigration Law desde 2021. Diana creció en Arlington, Virginia y obtuvo su Certificado de asistente legal de especialista en derecho de inmigración en el Washington Online Learning Institute. <a href="https://blakeimmigration.netlify.app/diana/">Leer más sobre Diana... </a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:diana@blakeimmigration.com" className="button fit">diana@blakeimmigration.com</a></li>
                             </ul>
