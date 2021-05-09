@@ -7,7 +7,7 @@ import pic19 from '../assets/images/pic19.jpg'
 const Amelia = (props) => (
     <Layout>
         <Helmet>
-            <title>Ami</title>
+            <title>Amelia</title>
             <meta name="description" content="Ami Page" />
         </Helmet>
 
