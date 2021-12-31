@@ -122,26 +122,7 @@ const About = (props) => (
                         </div>
                     </div>
                 </section>
-    <section>
-                    <Link to="/jose" className="image">
-                        <img src={pic21} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Jose Alvarado</h3>
-<h4>Paralegal</h4>
-                            </header>
-                            <p>Jose has been a paralegal at Blake Immigration Law since 2020. He grew up in northern Virginia and earned his B.A. in public policy from George Mason  University. <a href="https://blakeimmigration.netlify.app/jose/">Read more about Jose... </a></p>
-    
-<i><p>José ha sido paralegal en Blake Immigration Law desde 2020. Creció en el norte de Virginia y obtuvo su B.A. en políticas públicas de la Universidad George Mason. <a href="https://blakeimmigration.netlify.app/jose/">Leer más sobre José ...</a></p></i>
-                            <ul className="actions">
-                            <li><a href="mailto:jose@blakeimmigration.com" className="button fit">jose@blakeimmigration.com</a></li>
 
-                            </ul>
-                        </div>
-                    </div>
-                </section>
 <section>
                     <Link to="/diana" className="image">
                         <img src={pic22} alt="" />
