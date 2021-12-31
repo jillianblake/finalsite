@@ -77,7 +77,7 @@ const About = (props) => (
                             <p> Shane has been an attorney at Blake Immigration Law since 2021. She grew up outside of Dallas, Texas and earned his B.A. in political science and psychology from the University of North Texas. He received his J.D. from George Mason University. <a href="https://blakeimmigration.netlify.app/shane/">Read more about Shane...</a></p>
                             <i><p>Shane ha sido abogado en Blake Immigration Law desde 2021. Creció cerca de Dallas, Texas y obtuvo su B.A. en ciencias politicas y psicologia de la Universidad del Norte de Texas. Obtuvo su J.D. de la Facultad de Derecho de la Universidad George Mason. <a href="https://blakeimmigration.netlify.app/shane/">Leer más sobre Shane...</a></p></i>
                             <ul className="actions">
-                                <li><a href="mailto:amelia@blakeimmigration.com" className="button fit">amelia@blakeimmigration.com</a></li>
+                                <li><a href="mailto:shane@blakeimmigration.com" className="button fit">shane@blakeimmigration.com</a></li>
                             </ul>
                         </div>
                     </div>
