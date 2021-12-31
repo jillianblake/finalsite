@@ -10,7 +10,7 @@ import pic20 from '../assets/images/pic20.jpg'
 import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
 import pic22 from '../assets/images/pic22.jpg'
-import pic24 from '../assets/images/pic24.jpg'
+import pic25 from '../assets/images/pic25.jpg'
 
 
 const About = (props) => (
@@ -67,16 +67,16 @@ const About = (props) => (
                 </section>
                 <section>
                     <Link to="/shane" className="image">
-                        <img src={pic24} alt="" />
+                        <img src={pic25} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Shane Ivery, Esq.</h3>
+                                <h3>Shane Ivey, Esq.</h3>
                                 <h4>Associate Attorney</h4>
                             </header>
                             <p> English Bio <a href="https://blakeimmigration.netlify.app/shane/">Read more about Shane...</a></p>
-                            <i><p>Spanish bio <a href="https://blakeimmigration.netlify.app/amelia/">Leer más sobre Shane ...</a></p></i>
+                            <i><p>Spanish bio <a href="https://blakeimmigration.netlify.app/shane/">Leer más sobre Shane ...</a></p></i>
                             <ul className="actions">
                                 <li><a href="mailto:shane@blakeimmigration.com" className="button fit">shane@blakeimmigration.com</a></li>
                             </ul>
