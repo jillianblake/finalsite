@@ -35,7 +35,7 @@ const About = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Jillian Blake, Esq.</h3>
+                                <h3>Jillian N. Blake, Esq.</h3>
                                 <h4>Principal Attorney/Owner</h4>
                             </header>
                             <p>Jillian has been an attorney at Blake Immigration Law since 2015. She grew up in San Francisco, California and earned her B.A. and M.A. in international relations from Johns Hopkins University. She received her J.D. from the University of Michigan Law School. <a href="https://blakeimmigration.netlify.app/jillian/">Read more about Jillian...</a></p>
