@@ -10,7 +10,7 @@ import pic20 from '../assets/images/pic20.jpg'
 import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
 import pic22 from '../assets/images/pic22.jpg'
-
+import pic24 from '../assets/images/pic24.jpg'
 
 const About = (props) => (
     <Layout>
@@ -66,7 +66,7 @@ const About = (props) => (
                 </section>
    <section>
                     <Link to="/shane" className="image">
-                        <img src={pic19} alt="" />
+                        <img src={pic24} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
