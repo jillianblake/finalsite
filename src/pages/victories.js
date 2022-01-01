@@ -20,7 +20,16 @@ const Victories = (props) => (
                       
                     
     <h4><p>We have represented clients from all over the world including El Salvador, Honduras, Guatemala, Mexico, Costa Rica, Nicaragua, Venezuela, Colombia, Cuba, Jamaica, Haiti, Peru, Philippines, Pakistan, Azerbaijan, Afghanistan, Turkey, Ukraine, Turkmenistan, Iran, Ethiopia, Cameroon, Sierra Leone, Mongolia, Vietnam, South Korea, China and Ghana. Below is a sample of some of our victories: </p></h4>
-            
+             <h3>2021</h3>
+    <ul>
+    <li><b>Cancellation of Removal</b> approved in Arlington Immigration Court for Honduran client whose removal would lead to exceptional and extremely unusual hardship for her U.S. citizen children. 
+</li>
+    <li><b>Asylum granted</b> in Arlington Immigration Court for Venezuelan family who established a well-founded fear persecution if returned to Venezuela based on their political opinion.
+    </li>
+ <li><b>Humanitarian asylum granted</b> in Baltimore Immigration Court for Haitian client who entered the United States as unaccompanied minor after his home was burned down and his family member was killed due to political violence. 
+</li>
+    <li><b>Asylum granted</b> in Baltimore Immigration Court for Honduran client who suffered domestic violence and received death threats from her former partner.
+    </ul>
          <h3>2020</h3>
                             <ul>
                                             <li><b>Violence Against Women Act (VAWA) petition</b> approved by U.S. Citizenship and Immigration Services (USCIS) for Honduran client who was abused by her U.S. lawful permanent resident husband.
