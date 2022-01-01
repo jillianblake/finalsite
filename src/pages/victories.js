@@ -19,14 +19,19 @@ const Victories = (props) => (
    
                       
                     
-    <h4><p>We have represented clients from all over the world including El Salvador, Honduras, Guatemala, Mexico, Costa Rica, Nicaragua, Venezuela, Colombia, Cuba, Jamaica, Haiti, Peru, Philippines, Pakistan, Azerbaijan, Turkey, Ukraine, Turkmenistan, Iran, Ethiopia, Cameroon, Sierra Leone, Mongolia, Vietnam, South Korea, China and Ghana. Below is a sample of some of our victories: </p></h4>
+    <h4><p>We have represented clients from all over the world including El Salvador, Honduras, Guatemala, Mexico, Costa Rica, Nicaragua, Venezuela, Colombia, Cuba, Jamaica, Haiti, Peru, Philippines, Pakistan, Azerbaijan, Afghanistan, Turkey, Ukraine, Turkmenistan, Iran, Ethiopia, Cameroon, Sierra Leone, Mongolia, Vietnam, South Korea, China and Ghana. Below is a sample of some of our victories: </p></h4>
             
          <h3>2020</h3>
                             <ul>
-                                            <li><b>Violence Against Women Act (VAWA) petition</b> approved by U.S. Citizenship and Immigration Services (USCIS) for Honduran client who was abused by her U.S. lawful permanent resident husband (2020).
+                                            <li><b>Violence Against Women Act (VAWA) petition</b> approved by U.S. Citizenship and Immigration Services (USCIS) for Honduran client who was abused by her U.S. lawful permanent resident husband.
 </li>
 
-
+<li><b>Asylum granted</b> for El Salvadoran former police officer in Arlington Immigration Court based on threats he received after testifying against gang members in court.
+</li>
+<li><b>Asylum granted</b> for Honduran single mother in Baltimore Immigration Court based on her fear of returning to Honduras after being kidnapped and assaulted by gang members.
+</li>
+<li><b>Naturalization</b> application approved by U.S. Citizenship and Immigration Services (USCIS) for El Salvadoran client.
+</li>
                                         </ul>
                    
        <h3>2019</h3>
