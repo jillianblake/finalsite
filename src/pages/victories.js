@@ -28,7 +28,7 @@ const Victories = (props) => (
     </li>
  <li><b>Humanitarian asylum granted</b> in Baltimore Immigration Court for Haitian client who entered the United States as unaccompanied minor after his home was burned down and his family member was killed due to political violence. 
 </li>
-    <li><b>Asylum granted</b> in Baltimore Immigration Court for Honduran client who suffered domestic violence and received death threats from her former partner.
+    <li><b>Asylum granted</b> in Baltimore Immigration Court for Honduran client who suffered domestic violence and received death threats from her former partner.</li>
     </ul>
          <h3>2020</h3>
                             <ul>
