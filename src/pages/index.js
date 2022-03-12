@@ -80,6 +80,15 @@ class HomeIndex extends React.Component {
                             
                             <Link to="/contact" className="link primary"></Link>
                         </article>
+                        <article style={{backgroundImage: `url(${pic06})`}}>
+                            <header className="major">
+                                <h3>Victory Gallery</h3>
+<i><h3>Galería de las Victorias</h3></i>
+                               
+                            </header>
+                            
+                            <Link to="/contact" className="link primary"></Link>
+                        </article>
                     </section>
                     <section id="two">
                         <div className="inner">
