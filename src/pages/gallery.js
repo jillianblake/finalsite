@@ -144,4 +144,4 @@ const About = (props) => (
     </Layout>
 )
 
-export default About
+export default Gallery
