@@ -20,7 +20,7 @@ const About = (props) => (
             <meta name="description" content="Victory Gallery" />
         </Helmet>
 
-        <BannerAbout />
+        <BannerGallery />
 
         <div id="main">
             <section id="one">
