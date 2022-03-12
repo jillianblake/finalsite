@@ -100,7 +100,7 @@ class HomeIndex extends React.Component {
                                
                             </header>
                             
-                            <Link to="/contact" className="link primary"></Link>
+                            <Link to="/blog" className="link primary"></Link>
                         </article>
                         
                     </section>
