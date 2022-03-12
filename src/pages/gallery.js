@@ -41,8 +41,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Cancellation of Removal, Arlington (2022)</h3>
-                                <i><h3>Cancelación de Deportación, Arlington (2022)</h3></i>
+                                <h3>Cancellation of Removal, Arlington</h3>
+                                <i><h3>Cancelación de Deportación, Arlington</h3></i>
                             </header>
                       
                         </div>
@@ -55,8 +55,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Adjustment of Status (Residency), Arlington (2022)</h3>
-                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2022)</h3></i>
+                                <h3>Adjustment of Status (Residency)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)</h3></i>
                             </header>
                             
                         </div>
@@ -69,8 +69,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Asylum, Arlington (2022)</h3>
-                                <i><h4>Asilo, Arlington (2022)</h4></i>
+                                <h3>Asylum, Arlington</h3>
+                                <i><h4>Asilo, Arlington</h4></i>
                             </header>
                             
                         </div>
@@ -83,8 +83,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                               <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
-                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                               <h3>Adjustment of Status (Residency)(2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)(2021)</h3></i>
                             </header>
                           
                         </div>
@@ -97,8 +97,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Humanitarian Asylum, Arlington (2021)</h3>
-                            <i><h3>Asilo Humanitario, Arlington (2021)</h3></i>
+                                <h3>Humanitarian Asylum (2021)</h3>
+                            <i><h3>Asilo Humanitario (2021)</h3></i>
                             </header>
                            
                         </div>
@@ -111,30 +111,13 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
-                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                                <h3>Adjustment of Status (Residency)(2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)(2021)</h3></i>
                             </header>
                            
                         </div>
                     </div>
                 </section>
-
-
-  <section>
-                    <Link to="/gallery" className="image">
-                        <img src={pic33} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
-                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
-                            </header>
-                           
-                        </div>
-                    </div>
-                </section>
-
   <section>
                     <Link to="/gallery" className="image">
                         <img src={pic34} alt="" />
@@ -149,6 +132,23 @@ const Victories = (props) => (
                         </div>
                     </div>
                 </section>
+
+  <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic33} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Adjustment of Status (Residency)(2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia)(2021)</h3></i>
+                            </header>
+                           
+                        </div>
+                    </div>
+                </section>
+
+
   <section>
                     <Link to="/gallery" className="image">
                         <img src={pic36} alt="" />
