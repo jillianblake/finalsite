@@ -69,8 +69,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Asylum, Arlington (2022)</h3>
-                                <i><h4>Asilo, Arlington (2022)</h4></i>
+                                <h3>Asylum (2022)</h3>
+                                <i><h4>Asilo (2022)</h4></i>
                             </header>
                             
                         </div>
