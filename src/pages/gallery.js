@@ -16,11 +16,11 @@ import pic32 from '../assets/images/pic32.jpg'
 const Victories = (props) => (
     <Layout>
         <Helmet>
-            <title>About</title>
+            <title>Victories</title>
             <meta name="description" content="Victory Gallery" />
         </Helmet>
 
-        <BannerAbout />
+        <BannerVictories />
 
         <div id="main">
             <section id="one">
