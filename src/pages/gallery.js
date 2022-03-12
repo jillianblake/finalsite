@@ -13,7 +13,7 @@ import pic32 from '../assets/images/pic32.jpg'
 
 
 
-const About = (props) => (
+const Victories = (props) => (
     <Layout>
         <Helmet>
             <title>About</title>
@@ -120,4 +120,4 @@ const About = (props) => (
     </Layout>
 )
 
-export default About
+export default Victories
