@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 import BannerGallery from '../components/BannerGallery'
 
 import pic26 from '../assets/images/pic26.jpg'
-import pic19 from '../assets/images/pic19.jpg'
+import pic28 from '../assets/images/pic28.jpg'
 import pic20 from '../assets/images/pic20.jpg'
 import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
