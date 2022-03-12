@@ -156,8 +156,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Naturalization (2021)</h3>
-                                <i><h3>Naturalización (2021)</h3></i>
+                                <h3>Naturalization (2020)</h3>
+                                <i><h3>Naturalización (2020)</h3></i>
                             </header>
                            
                         </div>
