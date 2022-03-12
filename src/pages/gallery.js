@@ -135,6 +135,21 @@ const Victories = (props) => (
                     </div>
                 </section>
 
+  <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic34} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Naturalization (2021)</h3>
+                                <i><h3>Naturalización (2021)</h3></i>
+                            </header>
+                           
+                        </div>
+                    </div>
+                </section>
+
 
             </section>
         </div>
