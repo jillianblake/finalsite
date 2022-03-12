@@ -2,12 +2,11 @@ import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 
-
 const Blog = (props) => (
     <Layout>
         <Helmet>
-            <title>Blog</title>
-            <meta name="description" content="Blog" />
+            <title>Victories</title>
+            <meta name="description" content="Blog Page" />
         </Helmet>
     
 
@@ -17,10 +16,10 @@ const Blog = (props) => (
             <section id="one">
                 <div className="inner">
    
-                 Blog coming soon...
+      Blog Coming Soon...   
+   </div>
 </section>
 </div>
-    </div>
                    
    
                 
@@ -30,3 +29,4 @@ const Blog = (props) => (
 )
 
 export default Blog
+
