@@ -55,8 +55,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Adjustment of Status (Residency)</h3>
-                                <i><h3>Ajuste de Estatus (Residencia)</h3></i>
+                                <h3>Adjustment of Status (Residency) (2022)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia) (2022)</h3></i>
                             </header>
                             
                         </div>
@@ -69,8 +69,8 @@ const Victories = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Asylum, Arlington</h3>
-                                <i><h4>Asilo, Arlington</h4></i>
+                                <h3>Asylum, Arlington (2022)</h3>
+                                <i><h4>Asilo, Arlington (2022)</h4></i>
                             </header>
                             
                         </div>
