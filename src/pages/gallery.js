@@ -10,7 +10,12 @@ import pic29 from '../assets/images/pic29.jpg'
 import pic30 from '../assets/images/pic30.jpg'
 import pic31 from '../assets/images/pic31.jpg'
 import pic32 from '../assets/images/pic32.jpg'
-
+import pic33 from '../assets/images/pic33.jpg'
+import pic34 from '../assets/images/pic34.jpg'
+import pic35 from '../assets/images/pic35.jpg'
+import pic36 from '../assets/images/pic36.jpg'
+import pic37 from '../assets/images/pic37.jpg'
+import pic38 from '../assets/images/pic38.jpg'
 
 
 const Victories = (props) => (
@@ -103,6 +108,84 @@ const Victories = (props) => (
 <section>
                     <Link to="/gallery" className="image">
                         <img src={pic32} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                               <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                            </header>
+                            
+                        </div>
+                    </div>
+                </section>
+  <Link to="/gallery" className="image">
+                        <img src={pic33} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                               <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                            </header>
+                            
+                        </div>
+                    </div>
+                </section>
+ <Link to="/gallery" className="image">
+                        <img src={pic34} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                               <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                            </header>
+                            
+                        </div>
+                    </div>
+                </section>
+<Link to="/gallery" className="image">
+                        <img src={pic35} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                               <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                            </header>
+                            
+                        </div>
+                    </div>
+                </section>
+<Link to="/gallery" className="image">
+                        <img src={pic36} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                               <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                            </header>
+                            
+                        </div>
+                    </div>
+                </section>
+<Link to="/gallery" className="image">
+                        <img src={pic37} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                               <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                            </header>
+                            
+                        </div>
+                    </div>
+                </section>
+<Link to="/gallery" className="image">
+                        <img src={pic38} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
