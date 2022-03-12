@@ -6,11 +6,11 @@ import BannerAbout from '../components/BannerAbout'
 
 import pic26 from '../assets/images/pic26.jpg'
 import pic28 from '../assets/images/pic28.jpg'
-import pic20 from '../assets/images/pic20.jpg'
-import pic11 from '../assets/images/pic11.jpg'
-import pic21 from '../assets/images/pic21.jpg'
-import pic22 from '../assets/images/pic22.jpg'
-import pic25 from '../assets/images/pic25.jpg'
+import pic29 from '../assets/images/pic29.jpg'
+import pic30 from '../assets/images/pic30.jpg'
+import pic31 from '../assets/images/pic31.jpg'
+import pic32 from '../assets/images/pic32.jpg'
+
 
 
 const About = (props) => (
@@ -67,7 +67,7 @@ const About = (props) => (
                 </section>
                 <section>
                     <Link to="/shane" className="image">
-                        <img src={pic25} alt="" />
+                        <img src={pic29} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -85,7 +85,7 @@ const About = (props) => (
                 </section>
                 <section>
                     <Link to="/jennifer" className="image">
-                        <img src={pic20} alt="" />
+                        <img src={pic30} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -103,7 +103,7 @@ const About = (props) => (
                 </section>
                     <section>
                     <Link to="/karina" className="image">
-                        <img src={pic11} alt="" />
+                        <img src={pic31} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
@@ -125,7 +125,7 @@ const About = (props) => (
 
 <section>
                     <Link to="/diana" className="image">
-                        <img src={pic22} alt="" />
+                        <img src={pic32} alt="" />
                     </Link>
                     <div className="content">
                         <div className="inner">
