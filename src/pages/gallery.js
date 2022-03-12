@@ -120,6 +120,21 @@ const Victories = (props) => (
                 </section>
 
 
+  <section>
+                    <Link to="/gallery" className="image">
+                        <img src={pic33} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>Adjustment of Status (Residency), Arlington (2021)</h3>
+                                <i><h3>Ajuste de Estatus (Residencia), Arlington (2021)</h3></i>
+                            </header>
+                           
+                        </div>
+                    </div>
+                </section>
+
 
             </section>
         </div>
