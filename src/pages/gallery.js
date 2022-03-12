@@ -60,4 +60,4 @@ const About = (props) => (
     </Layout>
 )
 
-export default gallery
+export default Gallery
