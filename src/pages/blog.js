@@ -20,6 +20,7 @@ const Blog = (props) => (
                  Blog coming soon...
 </section>
 </div>
+    </div>
                    
    
                 
