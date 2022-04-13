@@ -9,9 +9,10 @@ import pic19 from '../assets/images/pic19.jpg'
 import pic20 from '../assets/images/pic20.jpg'
 import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
-import pic39 from '../assets/images/pic39.jpg'
 import pic25 from '../assets/images/pic25.jpg'
-import pic40 from '../assets/images/pic40.jpg'
+import pic39 from '../assets/images/pic39.jpg'
+
+
 
 const About = (props) => (
     <Layout>
@@ -142,25 +143,6 @@ const About = (props) => (
                     </div>
                 </section>
 
-
-<section>
-                    <Link to="/Jackie" className="image">
-                        <img src={pic40} alt="" />
-                    </Link>
-                    <div className="content">
-                        <div className="inner">
-                            <header className="major">
-                                <h3>Jackie Citalan</h3>
-                                <h4>Receptionist/Administrative Assistant</h4>
-                            </header>
-                            <p> </a> </p>
-    <i><p> </a></p></i>
-                            <ul className="actions">
-                                <li><a href="mailto:jackie@blakeimmigration.com" className="button fit">jackie@blakeimmigration.com</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </section>
 
             </section>
         </div>
