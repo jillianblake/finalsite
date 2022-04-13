@@ -9,8 +9,9 @@ import pic19 from '../assets/images/pic19.jpg'
 import pic20 from '../assets/images/pic20.jpg'
 import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
-import pic25 from '../assets/images/pic25.jpg'
 import pic22 from '../assets/images/pic22.jpg'
+import pic25 from '../assets/images/pic25.jpg'
+
 
 
 
@@ -143,7 +144,7 @@ const About = (props) => (
                     </div>
                 </section>
 
-
+ </section>
            
         </div>
 
