@@ -10,7 +10,7 @@ import pic20 from '../assets/images/pic20.jpg'
 import pic11 from '../assets/images/pic11.jpg'
 import pic21 from '../assets/images/pic21.jpg'
 import pic39 from '../assets/images/pic39.jpg'
-import pic325 from '../assets/images/pic25.jpg'
+import pic25 from '../assets/images/pic25.jpg'
 import pic40 from '../assets/images/pic40.jpg'
 
 const About = (props) => (
